@@ -45,22 +45,28 @@ Bark Lead (Simulated)
 
 ### 1️⃣ Clone the Repository
 
-```bash
+```
+git clone https://github.com/anuj-rawat8216/bark-ai-agent.git
+cd bark-ai-agent
+```
 
-## Run Backend
+### 2️⃣ Run Backend
+
+```
 cd backend
 pip install -r ../requirements.txt
 python -m uvicorn main:app --reload
+```
 
-👉 Open:
-http://127.0.0.1:8000/docs
+Open: http://127.0.0.1:8000/docs
 
-## Run Frontend
+### 3️⃣ Run Frontend (in a new terminal)
+
+```
 cd frontend
 npm install
 npm start
+```
 
-👉 Open:
-http://localhost:3000
-https://github.com/anuj-rawat8216/bark-ai-agent.git
+Open: http://localhost:3000
 
