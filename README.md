@@ -62,5 +62,5 @@ npm start
 
 👉 Open:
 http://localhost:3000
-git clone hps://github.com/AAAAA5464/bark-ai-agent.git
-cd bark-ai-agent
+https://github.com/anuj-rawat8216/bark-ai-agent.git
+
